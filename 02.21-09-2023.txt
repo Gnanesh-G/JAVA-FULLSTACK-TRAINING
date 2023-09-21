@@ -1,0 +1,14 @@
+Today Learning: 21/09/2023(Java Full Stack Training -Day 2)
+
+1.I clear the doubts in creating sample web pages.
+2.Learnt about how to hosting our website using Github and posted in repository for public use.
+3.Installed some extensions in VS code to improve and make the work efficiently.Eg.Prettier,Life server and Material icon.
+4.I learnt some shortcuts in VS code.
+5.Step by step explanation in HTML tags.
+6.I learnt how to link HTML and CSS files to execute the output.
+6.Clear explanation about CSS properties.
+7.Creating a sample web page using HTML and CSS from fresher perspective.
+
+TOMORROW'S ASSIGNMENT:
+Select one application to cloning the same website.
+
