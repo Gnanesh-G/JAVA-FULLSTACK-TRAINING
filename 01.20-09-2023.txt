@@ -1,1 +1,13 @@
-today learning
+Today Learning: 20/09/2023(Java Full Stack Training -Day 1)
+
+1.Basics about computers hardware and software:RAM,CPU,DISK,CACHE
+2.Details about how a application and its server works.
+3.Explanation about DOMAIN NAME SERVER(DNS),TCP,UDP,API and CONTENT DELIVERY NETWORK(CDN).
+4.Difference about GIT and GITHUB.
+5.Small explanation about road Map.
+6.Create an account in GIT AND GITHUB.
+7.Merge GIT and GITHUB account.
+8.Create public repository in GITHUB to upload day to day activities.
+Merge VS code with GITHUB to commit and push the daily coding activities.
+Learn HTML and CSS basics.
+Deploy a sample web page using HTML and CSS.
