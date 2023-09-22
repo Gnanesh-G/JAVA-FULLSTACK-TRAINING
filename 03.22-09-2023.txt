@@ -1,0 +1,7 @@
+Today Learning: 23/09/2023(Java Full Stack Training -Day 3)
+
+1. Today I'm tried to create a twitter login page that is yesterday's assignment.
+2. I'm facing many challenges in that login page.
+3. I'm clarifiying my doubts by trainer and colleagues.
+4. I learnt the process to  build a website.Eg.First complete the skeleton for the website using HTML then give the designs and layout using CSS.
+5. I learnt to create a website as a step-by-step process.

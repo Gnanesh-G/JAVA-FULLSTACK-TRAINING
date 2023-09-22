@@ -6,8 +6,8 @@ Today Learning: 21/09/2023(Java Full Stack Training -Day 2)
 4.I learnt some shortcuts in VS code.
 5.Step by step explanation in HTML tags.
 6.I learnt how to link HTML and CSS files to execute the output.
-6.Clear explanation about CSS properties.
-7.Creating a sample web page using HTML and CSS from fresher perspective.
+7.Clear explanation about CSS properties.
+8.Creating a sample web page using HTML and CSS from fresher perspective.
 
 TOMORROW'S ASSIGNMENT:
 Select one application to cloning the same website.
