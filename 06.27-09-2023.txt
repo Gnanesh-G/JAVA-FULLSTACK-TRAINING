@@ -1,0 +1,12 @@
+Today Learning: 27/09/2023(Java Full Stack Training -Day 6)
+
+Today i cleared my doubts in important javascript concepts like destruction,hoisting,string literals etc.,
+Trainer teach us how to validate the details in the web page as a step by step process.
+then try to deploy that validation by own.
+
+Learned properties in javascript:
+
+destruction
+Types of function
+String literals
+ 
