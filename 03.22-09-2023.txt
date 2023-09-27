@@ -1,4 +1,4 @@
-Today Learning: 23/09/2023(Java Full Stack Training -Day 3)
+Today Learning: 22/09/2023(Java Full Stack Training -Day 3)
 
 1. Today I'm tried to create a twitter login page that is yesterday's assignment.
 2. I'm facing many challenges in that login page.
