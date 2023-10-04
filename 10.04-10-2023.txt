@@ -1,0 +1,11 @@
+Today Learning: 04/10/2023(Java Full Stack Training -Day 10)
+ 
+ Today also trying to finish the E-commerce website
+
+ Javascript Concepts with E-commerce web application
+---------------------------------------------------
+   1.Sign out
+   2.Add to cart
+   3.Loading products in home and admin page
+   4.Add products 
+   5.Delete products etc.,

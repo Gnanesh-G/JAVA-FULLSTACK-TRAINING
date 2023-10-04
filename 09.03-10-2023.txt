@@ -1,0 +1,12 @@
+Today Learning: 03/10/2023(Java Full Stack Training -Day 9)
+
+Today I'm started to create a E-commerce website using javascript.
+
+Javascript Concepts with E-commerce web application
+---------------------------------------------------
+   1.Entire UI part 
+   2.Sign in
+   3.Sign up 
+   4.onclick
+   5.Bootstrap class
+   6.Random function etc.,

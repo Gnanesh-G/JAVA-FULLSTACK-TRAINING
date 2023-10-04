@@ -1,0 +1,22 @@
+Today Learning: 29/09/2023(Java Full Stack Training -Day 8)
+
+Today trainer teach us to create a entire E-commerce website using Javascript.
+
+Learned concepts:
+---------------------------------------------------
+    *localStorage 
+        1.getItem 
+        2.setItem
+    *SessionStorage
+        1.getItem
+        2.setItem 
+    *location 
+        1.pathname
+        2.replace
+        3.href 
+    *Map, Reduce, Filter 
+    *Find 
+    *Hidden Field 
+    *url parameter
+    *random number generator
+    *Toast message
