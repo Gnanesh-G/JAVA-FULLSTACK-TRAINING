@@ -1,0 +1,11 @@
+Today Learning: 06/10/2023(Java Full Stack Training -Day 12)
+ 
+ Today  trying to push my E-commerce website into Github
+ I learn how to change my location path in my website to upload files in githuib.
+
+ Javascript Concepts with E-commerce web application
+---------------------------------------------------
+  1.All basic fuctions in Javascript
+  2.Entire Todo application
+  3.location replace Concepts 
+  4.Learnt about Fetch,Async and Await etc..
