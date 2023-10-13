@@ -1,0 +1,21 @@
+Today Learning: 11/10/2023(Java Full Stack Training -Day 15)
+
+Today I learnt the fundamentals in Typescript
+           1.variables
+           2.Functions
+           3.Arrays
+           4.objects
+
+Review the attendance portal application using Typescript
+Clarify the doubts in Typescript
+Today I learnt about the installation process in angular
+Learnt about fundamentals in angular
+Try todo application using angular
+
+Learned concepts:
+---------------------------------------------------
+Two way Binding
+Entire installation setup for angular
+step by step procedure in angular
+
+

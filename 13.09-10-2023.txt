@@ -1,0 +1,15 @@
+Today Learning: 09/10/2023(Java Full Stack Training -Day 13)
+
+Today I learnt about the basics in JQuery.
+some basic core topics in Jquery.
+Try basic programs like changing the background colour,font ,style etc, using JQuery.
+
+Learned concepts:
+---------------------------------------------------
+
+ Difference between Egma 5 and Egma 6
+ How to add JqueryCDN link
+ Try todo application using Jquery
+ Try form validation using Jquery
+
+

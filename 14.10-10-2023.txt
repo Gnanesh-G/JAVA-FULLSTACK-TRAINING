@@ -1,0 +1,15 @@
+Today Learning: 10/10/2023(Java Full Stack Training -Day 14)
+
+Today I learned basics in Typescript
+Do some basic programs in Typescript
+Try Student attendance portal application using Typescript
+
+
+Learned concepts:
+---------------------------------------------------
+Shaowing
+AJAX
+History about Jqueryand Typescript
+Babel
+webpack
+Gitbash
