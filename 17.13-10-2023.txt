@@ -1,0 +1,13 @@
+Today Learning: 13/10/2023(Java Full Stack Training -Day 17)
+
+Today I learnt to build a todo application,sample E-commerce website pages with navbar.
+Today I attended a test based on javascript.
+I learnt some basic navbar concepts in angular.
+
+Learned concepts in Angular:
+---------------------------------------------------
+App routing
+Routerlink
+Routerlink Active
+Uppercase string manipulation in Angular
+creating interface component in angular
