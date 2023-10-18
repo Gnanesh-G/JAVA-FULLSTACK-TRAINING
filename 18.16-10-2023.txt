@@ -1,0 +1,12 @@
+Today Learning: 16/10/2023(Java Full Stack Training -Day 18)
+
+Today I review the javascript,Typescript and Jquery sample projects.
+Today I learnt to build a entire E-commerce website in angular.
+I learnt some basic validation concepts in angular.
+
+Learned concepts in Angular:
+---------------------------------------------------
+ngModel
+ngIf
+Structural declarative
+Attribute declarative
