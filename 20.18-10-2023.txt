@@ -1,0 +1,12 @@
+Today Learning: 18/10/2023(Java Full Stack Training -Day 20)
+
+Today also I continue the same E-commerce website 
+Today I learnt the flow how the carrt page works.
+Yesterday I done a add to cart page for single user with correct flow.
+Today I try to do Add to cart option for multiple with correct flow.
+
+Learned concepts in Angular:
+---------------------------------------------------
+reset ng from
+Auth Guard
+Ng group etc
