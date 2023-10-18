@@ -1,0 +1,17 @@
+Today Learning: 17/10/2023(Java Full Stack Training -Day 19)
+
+Today also continue the same E-commerce website 
+Today I learnt to fetch home page products from fake store API.
+I started Add to cart part in my website.
+I learnt about Oninit and Ngoninit concepts in angular.
+
+Learned concepts in Angular:
+---------------------------------------------------
+Pristine
+Dirty
+Touched
+Untouched
+Valid 
+Invalid
+Pipes
+CanActivate
