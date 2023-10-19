@@ -1,0 +1,16 @@
+Today Learning: 19/10/2023(Java Full Stack Training -Day 21)
+
+Today also I continue the same E-commerce website 
+Today I done a phonebook in angular as a assignment.
+Then I learnt to navigate the output in a new page of same phonebook.
+Then I'm continue the add to cart and checkout part in E-commerce website.
+
+Learned concepts in Angular:
+---------------------------------------------------
+ngsubmit
+onsubmit
+etc
+
+Today's Task:
+----------------------------------------------------
+Complete the E-commerce website in Angular and upload in Github.
