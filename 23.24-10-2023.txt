@@ -1,0 +1,30 @@
+Today Learning: 24/10/2023(Java Full Stack Training -Day 23)
+
+Today we covered important topics in Java.
+Learnt more about tricky interview questions in Java.
+Created a java project in Intellij and practice about various concepts in Java related to object-oriented programming,
+including object class, exceptions, method ,overriding, and overloading etc
+
+Learned concepts in JAVA:
+-------------------------------------------------------------------------------------------
+Checked-Runtime error
+Unchecked-Compile time error
+Autoboxing-conversion of  primitive datatypes into their corresponding wrapper classes.
+Auto unboxing-conversion of wrapper classes  into their corresponding  primitive datatypes.
+
+Practice concepts in Intellij:
+--------------------------------------------------------------------------------------------
+object
+class
+Method
+Upcasting
+Downcasting
+Overriding
+Overloading
+Interface
+Abstract
+Thread
+Date
+Collection
+Exception
+
