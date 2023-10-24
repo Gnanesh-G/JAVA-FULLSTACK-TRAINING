@@ -1,0 +1,23 @@
+Today Learning: 20/10/2023(Java Full Stack Training -Day 22)
+
+Today we start Java from basic fundamentals.
+Try to learn about errors.
+Today we done a small ATM project.
+
+Learned concepts in JAVA:
+---------------------------------------------------
+Data types
+     int
+     float
+     char
+     double
+Array
+Itellij JavaProject created.
+Loop Structure
+conditional Statement
+Math Function.
+Switch Case.
+
+Today's Task:
+----------------------------------------------------
+Try to complete the ATM project
