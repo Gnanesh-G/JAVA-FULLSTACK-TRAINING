@@ -1,0 +1,19 @@
+Today Learning: 25/10/2023(Java Full Stack Training -Day 24)
+
+Created a new java project in Intellij and practiced few task which is given by trainer.
+Create a new project in Intellij and practiced about Arraylist,Hashset and map.
+Learnt to do unit testing.
+
+
+Learned concepts in JAVA:
+-------------------------------------------------------------------------------------------
+
+Arraylist
+Hashset-Remove duplicates
+Map-Key value pair
+Filehandling
+File reader
+File writer
+stream
+Deadlock
+
