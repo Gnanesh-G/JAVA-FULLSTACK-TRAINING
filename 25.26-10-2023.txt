@@ -1,0 +1,24 @@
+Today Learning: 26/10/2023(Java Full Stack Training -Day 25)
+ 
+ Create a new java project and try to build a E-commerce Website.
+ In that website create many folders to do the execution.
+ Then complete welcome page,login page and register page with validation.
+
+ Covered Syllabus in this Website:
+ ------------------------------------------------------------------------------------------
+ Object
+ Class
+ Abstraction
+ Inheritance
+ Encapsulation
+ Filehandling
+
+Learned concepts in JAVA:
+-------------------------------------------------------------------------------------------
+Flow of the Website
+Login
+Register
+Validation
+Singleton 
+Entire flow for full website
+
