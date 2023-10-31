@@ -1,0 +1,37 @@
+Today Learning: 31/10/2023(Java Full Stack Training -Day 28)
+Today started to learn about Java 8.
+Created a new java project in Intellij and started to practice the following concepts:
+        Thread
+        Consumer 
+        Biconsumer
+        function
+        Bifunction
+        Predicate
+        BiPredicate
+        Stream ->Map,Filter,Reduce
+               ->Intermediate and Terminal operators
+        Flatmap
+        Comperator
+
+Learned concepts in Java 8:
+-------------------------------------------------------------------------------------------
+        Mark
+        UnmarkStack
+        ArrayList-not thread safe
+        LinkedList
+        Vector-thread safe
+        Set-does not allow duplicates.
+        Node 
+        HashMap
+        etc
+
+Tomorrow Task:
+--------------------------------------------------------------------------------------------
+Complete the below tasks based on Java 8:
+          Print the distinct hobbies of all persons
+          Print the distinct hobbies of all persons in sorted order
+          Print the distinct hobbies Count of all persons 
+          Sort all persons name in sorted order
+          Sort and print the same
+          Sort all persons name by height
+          Sort all persons name by height in reverse order.
