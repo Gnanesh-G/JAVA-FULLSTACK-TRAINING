@@ -1,0 +1,17 @@
+Today Learning: 30/10/2023(Java Full Stack Training -Day 27)
+
+Today also continued the process of completing the E-commerce website in java.
+Today i completed the exit ,logout and other portions of user side.
+I attached a readme file for that project with complete explanation of my project in github.
+I explained my flow of my project to trainer.
+Learnt about how the SQL keys(primary key and foreign key)work in java.
+
+Learned concepts in Java 7:
+-------------------------------------------------------------------------------------------
+SQL keys uses
+Exit functionality
+etc
+
+Task:
+--------------------------------------------------------------------------------------------
+Complete the 6 tasks based on Date.
