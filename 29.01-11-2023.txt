@@ -1,0 +1,45 @@
+Today Learning: 01/11/2023(Java Full Stack Training -Day 29)
+Today Started to learn about SQL followed by database.
+In SQL work bench started to practice sql queries.
+Finally started to create a ecommerce website using SQL queries.
+In that today I completed EER Diagram.
+
+Learned concepts in SQL:
+-----------------------------------------------------------------
+5 main categories in SQL:
+DDL – Data Definition Language
+DQL – Data Query Language
+DML – Data Manipulation Language
+DCL – Data Control Language
+TCL – Transaction Control Language
+
+SQL Datatypes:
+INT 
+VARCHAR 
+BOOLEAN 
+MEDIUM 
+TEXT 
+LONGTEXT-Upto 4GB
+DATE TIMESTAMP etc
+
+Keys:
+unique key
+foreign key
+composite key
+
+Practice concepts in SQL:
+-------------------------------------------------------------------
+Create Database
+Show database
+Use database
+Describe database
+Create table
+Describe table
+Alter table
+Inser into
+Select
+If not exists
+Drop table
+Update etc.
+
+
