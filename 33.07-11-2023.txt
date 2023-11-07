@@ -7,6 +7,29 @@ Learned Concepts:
 Tightly coupling and Loosely coupling
 Inversion of Control
 Dependancy injection -Constructor injection,setter method
-Annotations:
-      @Component,@Autowired,@Primary,@Qualifier,Autowired by name
-CDI-@
+CDI-method used instead of Autowired
+Scope-singleton,prototype
+Lifecycle of Bean
+AnnotationApplicationContext
+
+ Annotations:
+          -@Component
+          -@Autowired,
+          -@Primary,
+          -@Qualifier,
+          -Autowired by name,
+          -@Component Scan,
+          -@Postcontrol,
+          -@predestroy,
+          -@Restcontroller
+          -@Requestbody
+          -@Pathvariable
+          -@GetMapping
+          -@PostMapping
+          -@PuttMapping
+          -@DeleteMapping
+
+Task:
+--------------------------------------------------------------------------------------------
+ complete the bending tasks
+ learn and practice the today topics         
