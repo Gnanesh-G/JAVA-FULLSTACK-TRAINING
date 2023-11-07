@@ -21,7 +21,7 @@ SQL Task
         - Show cart 
         - Check out 
         - Orders
-Servlet 
+Servlet:
 -------
     *Servlet Creation 
     *Servlet mapping 
