@@ -1,0 +1,12 @@
+Today Learning: 06/11/2023(Java Full Stack Training -Day 32)
+Today Started to learn about Spring boot vs Spring MVC.
+Learnt about entire installation setup for spring and springboot.
+
+Learned Concepts:
+-----------------------------------------------------------------
+Tightly coupling and Loosely coupling
+Inversion of Control
+Dependancy injection -Constructor injection,setter method
+Annotations:
+      @Component,@Autowired,@Primary,@Qualifier,Autowired by name
+CDI-@

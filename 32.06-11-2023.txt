@@ -19,12 +19,6 @@ Spring Concepts
     *HttpServletRequest 
     *StringTrimmerEditor
 
-
-    Github links 
-    ------------
-    *JSP-JDBC - https://github.com/KarthigaGurusamy/JSP-JDBC
-    *JDBC-Ecommerce - https://github.com/KarthigaGurusamy/Java_JDBC_ECommerce
-
     Task 
     ----
     *Completed the web application using JSP, JDBC with database and Servlet for the following requirements 
