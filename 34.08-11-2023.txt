@@ -1,0 +1,45 @@
+Today Learning: 08/11/2023(Java Full Stack Training -Day 34)
+Today first we completed the yesterday's Spring MVC task and added in the github with Readme file
+Then trainer give the explanation about final project.
+Then started to learn about Springboot with rest API.
+In that I done a CRUD application called Springboot todo with API.
+
+Explanation about the CRUD application:
+---------------------------------------
+Intro:
+This is a simple ToDo application that allows users to create, read, update, and delete tasks. 
+The application is built using Spring for the backend and Angular for the frontend.
+
+Technologies Used:
+Spring Boot
+Angular
+MySQL Database
+
+API Endpoints:
+The backend API endpoints are accessible at http://localhost:8080/api/todos.
+You can use tools like Postman to interact with the API.
+
+Steps used to build this application:
+👉 Added the required maven dependencies (SQL, Servlet, JSTL, Spring).
+👉 Connected Database for storing and accessing data.
+👉 Used MVC (Model, View, Controller) Architecture.
+👉 Used annotations like @Controller, @RequestMapping, @Autowired.
+👉 Used Data Access Object (dao) for accessing Database using queries.
+
+Learned Concepts:
+-----------------------------------------------------------------
+Spring MVC flow
+Spring With rest API flow
+In spring we dont need to mention version in dependancies
+IsELIgnored
+About Postman tool to interact with Api 
+Annotations:@GetMapping
+            @PostMapping
+            @PutMapping
+            @DeleteMapping
+            @PatchMapping
+
+
+
+
+
