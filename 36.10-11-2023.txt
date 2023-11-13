@@ -1,0 +1,24 @@
+Today Learning: 10/11/2023(Java Full Stack Training -Day 36)
+Today started to learnt about JPA Security.
+Try to do login and register with spring jpa Security
+
+Then select topic for final project
+Go through the topic with sprint 
+Try to select UI for the project
+
+Learned Concepts:
+-----------------------------------------------------------------
+Types of query:
+    Named query
+    Native query
+    JPQL query
+    Derived Query
+
+Default classes:
+    BCryptPasswordListener
+    ApplicationListener
+
+Websites for UI templates:
+    Themeforest 
+    Dribbble
+    Envato  
