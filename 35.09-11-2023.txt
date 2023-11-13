@@ -1,0 +1,32 @@
+Today Learning: 09/11/2023(Java Full Stack Training -Day 35)
+Today first we completed the yesterday's Spring task and added in the github with Readme file
+Then started to learn about Spring Jpa entity.
+Created a new project ant try a toodo application with jpa.
+ 
+ JPA Entity:
+ Entities in JPA are nothing but POJOs representing data that can be persisted in the database.
+ An entity represents a table stored in a database. Every instance of an entity represents a row in the table.
+  
+Steps used to build a application with Jpa:
+👉 Added the required maven dependencies (Data-jdbc,Data-jpa).
+👉 Connected Database for storing and accessing data.
+👉 Used MVC (Model, View, Controller) Architecture.
+👉 Used annotations like @Controller, @RequestMapping, @Autowired,@Entity,@Named query,
+    @Id,@Generated value.
+
+Flow:
+New project
+Model
+Controller
+Mapping(one-one,one-many,many-many etc)
+Service
+Repository
+Table Mapping
+Update Service
+Update Controller
+Test postman
+
+Learned Concepts:
+-----------------------------------------------------------------
+HQL(Hibernate Query Language)
+How to do Git clone
