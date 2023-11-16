@@ -1,0 +1,35 @@
+Today Learning: 14/11/2023(Java Full Stack Training -Day 37)
+Today started to learn about Entire full stack project
+In that project I completed following steps for backend
+    1. Create a new project with JPA security configuration
+    2. Add required boiler plates
+    2. Models
+         Address
+         AppUser
+         Cart
+         Category
+         Grocery
+         Order
+         OrderedGrocery
+         OrderStatus
+         Role
+    3. Controller
+         AdminCategorycontroller
+         AdminGrocerycontroller
+         AdminOrdercontroller
+         AdminUsercontroller
+         AuthController
+         CartController
+         OrderController
+         GroceryController
+         HelloController
+         UserController
+
+
+Learned Concepts:
+-----------------------------------------------------------------
+Annotations:
+    @RolesAllowed-for allowing particular user in a certain time.
+    @Column(updatable=false)
+Apirequest function
+Apiresponse function
