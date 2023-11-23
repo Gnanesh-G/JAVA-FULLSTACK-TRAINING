@@ -1,0 +1,16 @@
+Today Learning: 16/11/2023(Java Full Stack Training -Day 39)
+Project Name-Grocery Delivery App
+Continue the process of deploying the project
+Today I do some corrections in that project:
+           change the mapping annnotations etc
+           Put @JsonIgnore to avoid some table values
+Done API validation in Request
+                
+Learned Concepts:
+-----------------------------------------------------------------
+Spring Annotations:
+@Transient
+@Transactional
+@NotNull
+@NotEmpty
+@Positive
