@@ -1,0 +1,12 @@
+Today Learning: 22/11/2023(Java Full Stack Training -Day 43)
+Project: GROCERY DELIVERY APP
+------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the GET Methods in project
+            -> GET Groceries
+            -> GET Users  
+            -> GET Categories 
+            -> GET Address
+            
+        - Integrated Post method 
+            -> POST Category 
