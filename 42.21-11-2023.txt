@@ -1,0 +1,17 @@
+Today Learning: 21/11/2023(Java Full Stack Training -Day 42)
+Project: GROCERY DELIVERY APP
+------------------------------
+*Continued with the front end part of the project 
+        - Added form validation for 
+            1. Login 
+            2. Register
+            3. Admin Form 
+            4. Category Form
+ 
+        - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+ 
+ 
+Topics covered:
+---------------
+    *Communication between components.
