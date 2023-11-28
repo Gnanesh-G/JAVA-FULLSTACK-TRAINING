@@ -1,0 +1,14 @@
+Today Learning: 23/11/2023(Java Full Stack Training -Day 44)
+Project: GROCERY DELIVERY APP
+------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the POST Methods in project in admin side
+            -> POST Groceries
+            -> POST Users   
+        
+            
+        - Integrated DELETE method 
+            -> DELETE Category 
+            -> DELETE Groceries
+            -> DELETE Users   
+            
