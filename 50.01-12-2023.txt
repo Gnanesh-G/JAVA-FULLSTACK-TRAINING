@@ -1,0 +1,53 @@
+Today Learning: 01/12/2023(Java Full Stack Training -Day 50)
+Project: GROCERY DELIVERY APP
+------------------------------
+*Continued with the integration of back end and front end.
+       
+        User side:
+        ----------    
+           
+        - Continued the UI part to do corrections in navbar and home page products
+        - Do set status functionality 
+        - Complete the entire project page UI. 
+
+
+        Admin Side:
+        -----------
+        
+        -Solve the errors in file upload functionality
+        -Add image to add product functionality in admin grocery page
+        
+        Errors:
+        -------
+        *Full Authentication error
+        *Status 500-Internal server error
+        *Status 405-Method not allowed
+        
+
+        Readme File:
+        Add enter readme file for both front end and back end project according to following topics:
+            1.Project Title
+            2.Description
+            3.Technologu Used
+            4.Username and Password for all Roles 
+            5.Challenges
+            6.Hardest errors
+            7.Repositories link
+            8.Screenshots
+            9.MySql schema
+
+
+
+        Topics covered:
+        ---------------
+
+        *Custom validation
+            Custom async validators are similar to sync validators,
+            but they must instead return a Promise or observable that later emits null or a validation error object.
+        
+        *Lazy loading:
+         Lazy loading in angular is the process of loading website components, modules, or other assets when they are needed.
+
+        *Struct:
+          Nesting storing and sorting in struct in angular.
+          so I have a JSON file with lots of information that can be sorted many ways.
